@@ -37,3 +37,15 @@ We have developed a **scalable AI-powered system** that enhances document search
 
 ---
 
+
+## 🛠️ Tech Stack  
+| Technology | Purpose |
+|------------|---------|
+| **Python** | Core programming language |
+| **LangChain** | AI workflow orchestration |
+| **ChromaDB** | Vector database for storing and retrieving documents |
+| **Tavily API** | Web search integration |
+| **llama-3.1-8b-instant LLM** | Processing user queries and generating responses |
+| **Streamlit** | Simple UI for interacting with the system |
+| **Tesseract OCR** | Extracting text from scanned images and handwritten text | ( to be added )
+| **Docker** | Containerization for easy deployment | ( to be added )
