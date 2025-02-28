@@ -1,4 +1,4 @@
-# hackathoniitgn
+# hackathon_IIEC_IITGANDHINAGAR
 
 # 🚀 AI-Powered Document Search for MoSPI  
 
