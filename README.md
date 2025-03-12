@@ -1,13 +1,13 @@
 # hackathon_IIEC_IITGANDHINAGAR
 
-# 🚀 AI-Powered Document Search for MoSPI  
+#  AI-Powered Document Search for MoSPI  
 
-## 📌 Problem Statement  
+##  Problem Statement  
 Manual search within documents **impacts the overall efficiency** of operations at MoSPI. Our solution automates and optimizes document retrieval using **AI-driven techniques**.  
 
 ---
 
-## ✅ Our Approach  
+## Our Approach  
 We have developed a **scalable AI-powered system** that enhances document search. Here’s how it works:  
 
 ### 1️⃣ Extracting Text from Documents  
@@ -29,8 +29,8 @@ We have developed a **scalable AI-powered system** that enhances document search
 
 ---
 
-## 🎯 Why Our Solution?  
-✅ **Speeds up search operations** 🔍🚀  
+##  Why Our Solution?  
+✅ **Speeds up search operations** 
 ✅ **Reduces manual effort** by automating document retrieval  
 ✅ **Enhances accuracy** with AI-powered search  
 ✅ **Integrates ChromaDB, Tavily, Tesseract, and LLM seamlessly with LangChain**  
